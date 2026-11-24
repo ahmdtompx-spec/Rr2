@@ -1,0 +1,6 @@
+{
+  "name": "اقرأ",
+  "description": "مكتبة عربية رقمية بتأثيرات الزجاج الشفاف ومحاكاة الرفوف الحقيقية، مقسمة حسب المؤلفين مع زخارف عربية هادئة وتجربة قراءة تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
